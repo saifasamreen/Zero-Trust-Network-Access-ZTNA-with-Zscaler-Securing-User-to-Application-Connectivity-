@@ -63,8 +63,3 @@ Granular access control
 
 Secure remote access
 
-Conclusion
-
-ZTNA with Zscaler provides a modern and secure approach to accessing internal applications, helping organizations improve cybersecurity and reduce attack risks.
-
-If you want, I can also make it even shorter (README for GitHub submission – 8–10 lines) which many colleges prefer.
